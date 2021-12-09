@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(./images/4597119.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.div1{
+    width: 30%;
+    height: 45%;
+    text-align: center;
+    padding: 20px;
+    position: absolute;
+    top: 15%;
+    left: 5%;
+    border-radius: 10px;
+    border: 2px white solid;
+}
+.input{
+   margin-top: 30px;
+   width: 60%;
+   border-style: none;
+   border-radius: 10px;
+   padding: 5px;
+}
+.button{
+    margin-top: 30px;
+    border-color: white;
+    background-color:grey;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    border: 2px solid white;
+}
+form{
+    color:#fff;
+}
